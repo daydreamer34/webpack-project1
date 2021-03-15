@@ -1,1 +1,1 @@
-# webpack-project1
+# Webpack Project 1
