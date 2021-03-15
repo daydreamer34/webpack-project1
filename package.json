@@ -1,0 +1,23 @@
+{
+    "name": "webpack-project1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "webpack serve",
+        "watch": "webpack --watch",
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github-personal.com:daydreamer34/webpack-project1.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "webpack": "^5.25.0",
+        "webpack-cli": "^4.5.0",
+        "webpack-dev-server": "^3.11.2"
+    }
+}
